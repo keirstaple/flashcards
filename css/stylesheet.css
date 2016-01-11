@@ -1,0 +1,18 @@
+  .definition  {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.flashcard{
+  border: solid;
+  border-color:grey;
+  border-width: 3px;
+}
