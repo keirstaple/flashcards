@@ -15,4 +15,21 @@
   border: solid;
   border-color:grey;
   border-width: 3px;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.definition{
+  border: solid;
+  border-color:grey;
+  border-width: 3px;
+  border-radius: 10px;
+  margin:10px;
+  padding: 10px;
+}
+
+.row-eq-height{
+  display: flex;
 }
